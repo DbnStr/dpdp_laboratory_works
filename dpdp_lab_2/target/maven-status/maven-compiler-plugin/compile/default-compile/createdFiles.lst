@@ -1,0 +1,7 @@
+ru/bmstu/dpdp/lab_2/AirportMapper.class
+ru/bmstu/dpdp/lab_2/AirportGroupingComparator.class
+ru/bmstu/dpdp/lab_2/AirportReducer.class
+ru/bmstu/dpdp/lab_2/AirportPartitioner.class
+ru/bmstu/dpdp/lab_2/FlightMapper.class
+ru/bmstu/dpdp/lab_2/AirportWritableComparable.class
+ru/bmstu/dpdp/lab_2/AirportApp.class

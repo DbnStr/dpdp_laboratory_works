@@ -1,0 +1,9 @@
+/Users/dbnstr/dpdp_lab_2/src/main/java/ru/bmstu/dpdp/lab_2/AirportWritableComparable.java
+/Users/dbnstr/dpdp_lab_2/src/main/java/ru/bmstu/dpdp/lab_2/AirportReducer.java
+/Users/dbnstr/dpdp_lab_2/src/main/java/ru/bmstu/dpdp/lab_2/FlightCsvWritable.java
+/Users/dbnstr/dpdp_lab_2/src/main/java/ru/bmstu/dpdp/lab_2/AirportGroupingComparator.java
+/Users/dbnstr/dpdp_lab_2/src/main/java/ru/bmstu/dpdp/lab_2/AirportCsvWritable.java
+/Users/dbnstr/dpdp_lab_2/src/main/java/ru/bmstu/dpdp/lab_2/AirportApp.java
+/Users/dbnstr/dpdp_lab_2/src/main/java/ru/bmstu/dpdp/lab_2/AirportMapper.java
+/Users/dbnstr/dpdp_lab_2/src/main/java/ru/bmstu/dpdp/lab_2/FlightMapper.java
+/Users/dbnstr/dpdp_lab_2/src/main/java/ru/bmstu/dpdp/lab_2/AirportPartitioner.java
